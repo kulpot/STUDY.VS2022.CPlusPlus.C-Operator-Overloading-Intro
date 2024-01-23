@@ -7,7 +7,7 @@ using std::endl;
 
 int add(int left, int right)
 {
-	return;
+	return																											left + right;
 }
 
 void main()
